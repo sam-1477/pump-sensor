@@ -80,3 +80,7 @@ else:
 
 # Display report
 print(json.dumps(report, indent=4))
+echo "Hello, GitHub!"
+echo "Hello, GitHub!"
+
+
